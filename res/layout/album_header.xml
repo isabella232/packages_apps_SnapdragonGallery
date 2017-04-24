@@ -31,7 +31,6 @@
         android:paddingStart="15dip"
         android:paddingBottom="10dip"
         android:paddingTop="20dip"
-        android:background="@drawable/white_text_bg_gradient"
         android:layout_gravity="bottom"
         android:orientation="vertical" >
 

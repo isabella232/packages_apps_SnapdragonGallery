@@ -15,21 +15,21 @@
 -->
 <resources>
 
-    <color name="default_background">@color/white</color>
+    <color name="default_background">#1a1a1a</color>
 
     <!-- configuration for album set page -->
-    <color name="albumset_background">@color/white</color>
+    <color name="albumset_background">#1a1a1a</color>
     <color name="albumset_placeholder">@color/black_transparent_3</color>
-    <color name="albumset_label_background">@color/black_transparent_4</color>
+    <color name="albumset_label_background">@color/black_transparent_4</color> <!-- 54% alpha -->
     <color name="albumset_label_title">@color/white</color>
     <color name="albumset_label_count">@color/white</color>
     <color name="albumlist_label_title">@color/black_transparent_4</color>
-
+    
     <color name="darker_transparent">@color/black_transparent_5</color>
 
     <!-- configuration for album page -->
-    <color name="album_background">@color/white</color>
-    <color name="album_placeholder">@color/white</color>
+    <color name="album_background">#1A1A1A</color>
+    <color name="album_placeholder">#75000000</color>
 
     <!-- configuration for photo page -->
     <color name="photo_background">@color/primary</color>
@@ -81,11 +81,11 @@
     <color name="grey">#e7e7e7</color>
     <color name="disabled_knob">#575757</color>
     <color name="toolbar_theme">@color/primary</color>
-    <color name="multiselect_background">@color/white</color>
+    <color name="multiselect_background">@color/light_black</color>
     <color name="edit_background">@color/black</color>
     <color name="edit_actionbar_background">@color/black</color>
     <color name="dialog_button_color">#009688</color>
-    <color name="timeline_title_text_color">@color/black_transparent_4</color>
-    <color name="timeline_title_number_text_color">@color/black_transparent_3</color>
-    <color name="timeline_title_background_color">@color/white</color>
+    <color name="timeline_title_text_color">@color/white</color>
+    <color name="timeline_title_number_text_color">@color/white</color>
+    <color name="timeline_title_background_color">#373737</color>
 </resources>
